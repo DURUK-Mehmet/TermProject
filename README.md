@@ -1,2 +1,2 @@
 
-https://github.com/DURUK-Mehmet/TermProject
+https://github.com/FiratStudentsProject/TermProject
